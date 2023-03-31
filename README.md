@@ -1,6 +1,8 @@
 
 # Wasserstoff Frontend Assignment
 
+
+**Best view in 67% screen size** 
 An assignment related to mostly frontend with data visualization and integration in map, chart and bubbles.
 
 <img src="https://imgtr.ee/images/2023/03/31/UQWsl.png" alt="UQWsl.png" width="950" />
