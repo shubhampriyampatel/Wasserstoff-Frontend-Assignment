@@ -36,7 +36,7 @@ npm run build
 ```
 ## Video Explanation 
 
-https://drive.google.com/file/d/1DaYJSHvIMGI9CHBGEHK3qnNsZhY-kOJZ/view?usp=share_link
+
 
 ## Deployment
 
